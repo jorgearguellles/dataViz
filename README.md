@@ -25,7 +25,7 @@ Esta hecha con :green_heart: y:
   
 ## Demo
 
-[Ojeala](https://jorgearguellles.github.io/dataViz/)
+[Hechale un vistazo!](https://jorgearguellles.github.io/dataViz/)
 
   
 ## Vista previa
