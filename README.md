@@ -19,7 +19,6 @@ Esta hecha con :green_heart: y:
 * [Estilos con CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 * [Hecho con JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 * [Gráfico realizado con Google Charts](https://developers.google.com/chart)
-* Datos de estáticos de un archivo .csv 
 * [Desplegada con GitHub-Pages](https://pages.github.com)
 
   
