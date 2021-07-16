@@ -18,8 +18,7 @@ google.charts.load('current', {'packages':['line']});
 
       var options = {
         chart: {
-          title: '% Utilización de maquinas para el mes de Junio 2021',
-          subtitle: '...'
+          title: '% Utilización de maquinas para la tercera semana de Junio 2021'
         },
         width: 900,
         height: 500,
