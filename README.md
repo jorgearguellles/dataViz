@@ -32,11 +32,19 @@ Esta hecha con :green_heart: y:
 
 ### Visualización del mes
 
-![App Screenshot](https://github.com/jorgearguellles/dataChart/blob/main/img/screenShot.png)
+![App Screenshot](https://github.com/jorgearguellles/dataViz/blob/main/img/month.png)
 
 ### Visualización de la primera semana
 
-![App Screenshot](https://github.com/jorgearguellles/dataChart/blob/main/img/screenShot.png)
+![App Screenshot](https://github.com/jorgearguellles/dataViz/blob/main/img/weekOne.png)
+
+### Visualización de la primera semana
+
+![App Screenshot](https://github.com/jorgearguellles/dataViz/blob/main/img/weekTwo.png)
+
+### Visualización de la primera semana
+
+![App Screenshot](https://github.com/jorgearguellles/dataViz/blob/main/img/weekThree.png)
 
  
  ## Retroalimentación
